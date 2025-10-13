@@ -3,7 +3,7 @@ import pandas as pd
 import random
 
 # --- Cấu hình ---
-CSV_FILE = r"C:\Thuy-Data\日本語N1\Python-Nihongo\Python_vocab_game_Web\vocab.csv"
+CSV_FILE = r"vocab.csv"
 
 # --- Load dữ liệu ---
 def load_vocab(csv_file):
